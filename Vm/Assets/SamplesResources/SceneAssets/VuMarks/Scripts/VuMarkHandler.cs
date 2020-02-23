@@ -132,6 +132,8 @@ public class VuMarkHandler : MonoBehaviour
         SetVuMarkOpticalSeeThroughConfig(vumarkBehaviour);
     }
 
+    ////////////////////////////////////////////
+    //Só intressam estas duas funções por agora
     /// <summary>
     /// This method will be called whenever a new VuMark is detected
     /// </summary>
@@ -173,7 +175,14 @@ public class VuMarkHandler : MonoBehaviour
     }
 
     #endregion // VUMARK_CALLBACK_METHODS
+    ////////////////////////////////////////////////////
 
+    /// <summary>
+    /// </summary>
+    /// <param name="vumarkTarget"></param>
+    /// <returns></returns>
+    
+    
 
     #region PRIVATE_METHODS
 

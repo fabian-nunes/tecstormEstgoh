@@ -10,9 +10,6 @@
         <e p="AtomRocket" t="Include">
           <e p="ReadMe.txt" t="Include" />
         </e>
-        <e p="Cartoon Castle Building Kit" t="Include">
-          <e p="ReadMe.txt" t="Include" />
-        </e>
         <e p="Common" t="Include">
           <e p="Editor" t="Include">
             <e p="ConfigurePlayerSettings.cs" t="Include" />
@@ -101,6 +98,9 @@
             </e>
           </e>
         </e>
+        <e p="Heli1" t="Include">
+          <e p="Info.txt" t="Include" />
+        </e>
         <e p="LowPolyWater_Pack" t="Include">
           <e p="LowPoly Island" t="Include">
             <e p="Credits.txt" t="Include" />
@@ -114,6 +114,9 @@
           <e p="Shaders" t="Include">
             <e p="WaterShaded.shader" t="Include" />
           </e>
+        </e>
+        <e p="Military Vehicle" t="Include">
+          <e p="Humvee Info.txt" t="Include" />
         </e>
         <e p="SamplesResources" t="Include">
           <e p="AugmentationAssets" t="Include">
@@ -225,6 +228,9 @@
             </e>
           </e>
         </e>
+        <e p="Script" t="Include">
+          <e p="shoot.cs" t="Include" />
+        </e>
         <e p="StreamingAssets" t="Include">
           <e p="Vuforia" t="Include">
             <e p="ARTVdb.xml" t="Include" />
@@ -235,6 +241,9 @@
             <e p="VuforiaMars_Object_OT.xml" t="Include" />
             <e p="VuforiaMars_VuMark.xml" t="Include" />
           </e>
+        </e>
+        <e p="ToonSoldiers_WW2_demo" t="Include">
+          <e p="ToonSoldiers_WW2_demo_README.txt" t="Include" />
         </e>
         <e p="Vuforia" t="Include">
           <e p="Databases" t="Include">

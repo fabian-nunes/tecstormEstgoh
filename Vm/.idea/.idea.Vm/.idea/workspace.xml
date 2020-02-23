@@ -11,11 +11,13 @@
     <setting file="file://$PROJECT_DIR$/Assets/SamplesResources/SceneAssets/VuMarks/Scripts/LookAtObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SamplesResources/SceneAssets/VuMarks/Scripts/VuMarkHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SamplesResources/SceneAssets/VuMarks/Scripts/VuMarkTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/shoot.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/SamplesResources/SceneAssets/VuMarks/Scripts/VuMarkHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/shoot.cs" />
       </list>
     </option>
   </component>
@@ -65,6 +67,8 @@
       <workItem from="1582296767621" duration="7356000" />
       <workItem from="1582319496435" duration="298000" />
       <workItem from="1582369279575" duration="611000" />
+      <workItem from="1582385196337" duration="820000" />
+      <workItem from="1582388278860" duration="1864000" />
     </task>
     <servers />
   </component>

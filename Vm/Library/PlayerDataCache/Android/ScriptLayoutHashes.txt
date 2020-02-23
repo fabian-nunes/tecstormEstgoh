@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/binog/Desktop/Vm/test.apk
+C:/Users/binog/Documents/GitHub/tecstormEstgoh/Vm/test.apk
 SceneListBegin?
 Assets/SamplesResources/Scenes/3-VuMarks.unity
 SceneListEnd?

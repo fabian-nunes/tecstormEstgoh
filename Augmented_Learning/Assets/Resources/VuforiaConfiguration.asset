@@ -13,16 +13,35 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
+<<<<<<< HEAD
     vuforiaLicenseKey: Aa/0iCn/////AAABmYHkWYa5/EHAgFTXVrRX/5oQThtQD7K2Dhx8U1b4vv0SxFXx0f/z0X8SBzaUO12yW786vYc+bAy8bF8zVFOGTkI1t1EYg2SBHT3CRYte81xz2Px/JD6YYqat9vrEg8gc7Jd0An3MJh8bWTtI2Q1FrZHRsSg+n2MagarBv4vFMUVaVt1K0MbkjyIvGOFCfNrXuPEiwPOARCXthHkQqP0j40ju2u6mot8EV8zD2dgH9NKQ7V59t9Xv4iufHpnOWeSNGQo7W4d//1gEKtzldRwRwV8X/l2mHe1RmYiDSfJ/6I+yoX9yB3YE7guNI+tdQVgb9Plz8bl9xYMpHY4Q2926xgVTgbuLFQKjF4HJ34EdZeGq
     ufoLicenseKey: QWRwUXNWci8vLy8vQUFBQUtIeE8wTnc1ZmtaS2xNMmJHWXpUa3VvZjlsbEtlK2RnbmJlRWh5RlVjdDFKSXRDUTRGcXdyMjd4RWRDR3IwQ204enJxbkhNQzBpa2R2a0Y3blBEN01QQVdnOVJmcEZuNVhLaWZVNlBYVGJjVGRweU1qdlNkVllsdFloeTlSRlJwMFZVdlFjK1dlQU5SNWpWdmozMDBJK0N0K3VpKzV2TlozVnlNblFOSklhSjFseVkxNlZpRjhTYWNvNGhBaXcrQmlmQ0hVVUZkL2MxM1ZGb2FJV2E5RlYyMTd6d0VGc0FXbTAzdndHa2t3Q1BaNFhjYVhjT2d2UFVWVVNjRENUUXlBdzRhWk5Ub1AwRExjSXYzNUhCaXRvUTluNHZSWFJxWGQxdEVucGJ2VTFmLzZEVVFuZGhraVpXSkprOGJVS2NXdUMzNzN3YXFmRDRpeWhRalRXajRaUkttdDZHRVhHcHNQSXN5aXBMaVBJb0s=
+=======
+    vuforiaLicenseKey: 
+<<<<<<< HEAD
+    ufoLicenseKey: QVVOWmc3My8vLy8vQUFBQUtHWlVHYWZtYVV3WHBhV0pRWEY1LzQ1M1ZTZEIwdzhoR1c2MENPS1dMU0dBODhiM2ZiU0JVTFlhSnV5MTlDeUNFZUx0MDVTN3U0VjJqM0JIT3pGSG41RlpMQXVDUUdWeDRsSEEycXAvcS9ZRnpSWE44eCtHRzBxZXkyaStDTEFHRWJHcTBncHRCdG02eXFZakRPbE1jcWJScmZKeW1aOFJnZWhuZVRzV1czWWI3N2R2eFBtVzZUWjJSWVAxZjFZTzh5cndUcE1IRWlURHFrSlp0WHhFNXRiaHpMbGJMMVEvLzFvekwwOHFkOUVpd3ZqeU9BeWNlT2VFeEhadFlXOVZwbTBmMnV6c2J4VlEvSUxuR2V4SGQ2eCtJbTB2anlkeVlmZUNtOU9jdG5weXpRYmNBVVRzR1dHWlBhKzkxaHlQaG5Udmsvem9uVzRGZjR4djZVR1QxdVpUYWlDcEhMRjBPM3BncUxEcEIya3k=
+=======
+    ufoLicenseKey: QVZYdGxIZi8vLy8vQUFBQUtBdmJKYmlCbVVMYW5QYVhtR0kwdmNvSDdDQzM0QXUxNTg2MGRDVUZSRWt4V3RtR0JjdXV2MW5RVXpmNlZsaXlGamJvekdodVlWam5BZGp2b1lOQjhuakdQd1hrdytuTFgyMndtUWhlNU9zS254U0t6NzczSUh0eEUvcVQzSXFwcXZOeVZzVm5HL05Da1RqTVpVZzVXaTF1aUpjVFg2TXdLc3dOa1dpd0k0eEZuMU5nZU42WHhreUkzR09ZZnRUNjdHaEVsQ0JqcFUvMFY2dGNGNThJK0k1VFFYelVsb255aDF5TkVacElDdktlVDVmeDIzZWc2U1g3UXlGcWU4UmQ0M0g0QVVJTTBlUnBuWWJYVlZJalVFTzAxL2dseHZTN1A1RmNIc21xaExySHpLNURiMnRsNnZnekZoZm5jeVh2UEUwb1ZFRjVhVndVQWR2eTZFUGIvd0J2Vks2WlNLcjNDY29kMTExYUpLSTI=
+>>>>>>> d1dcae65728c0a69fffa5fbdeeb26af0255614b8
+>>>>>>> 52fa7ace720034f3ca5fbe819316923406923d6a
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
+<<<<<<< HEAD
     version: 8.3.8
     eulaAcceptedVersions: '{"Values":["8.6","8.3"]}'
+=======
+<<<<<<< HEAD
+    version: 8.3.8
+    eulaAcceptedVersions: '{"Values":["8.3"]}'
+=======
+    version: 1.0.0
+    eulaAcceptedVersions: 
+>>>>>>> d1dcae65728c0a69fffa5fbdeeb26af0255614b8
+>>>>>>> 52fa7ace720034f3ca5fbe819316923406923d6a
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31

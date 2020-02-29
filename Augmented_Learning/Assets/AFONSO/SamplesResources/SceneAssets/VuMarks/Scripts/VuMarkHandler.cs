@@ -54,6 +54,16 @@ public class VuMarkHandler : MonoBehaviour
 
     void Start()
     {
+        int l = 0;
+        while(l < 2)
+        {
+
+            test1.SetActive(false);
+            augmentationObjects[img].augmentation.SetActive(false);
+
+            l++;
+        }
+
         VuforiaARController.Instance.RegisterVuforiaStartedCallback(OnVuforiaStarted);
 
         this.vumarkInstanceTextures = new Dictionary<string, Texture2D>();

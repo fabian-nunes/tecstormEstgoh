@@ -13,20 +13,16 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
-    ufoLicenseKey: QWNNeHZ3My8vLy8vQUFBQUtOZkhGYjVpSkUwQ241dXl3Tlc1dERkVktBT1BtL1kvNnk1ajNIdnc5NHV2aTcvdkVGU3IzSFZyOEgzZmVOa0NoQUViNlNDd3RNamkzY3hOMVdZZXdiYU9STkRSUndpWnVySE9ZUWFEWkZOTEFPVzNST2wrNjdWM01tY0c5RUE3RTAwWXpqTy9oSDEwZ2lldktERENYOVlNaTlMVzZYalZYUWQ0ZmtZZXU3dE9vSjZJUDhEZlF6WVZ1SjVhbzZMbDJIYnFlZTVmR2ZLVzEzUUQrekdjNVZKa2hlYTdiR3k3b3NoeDlzbnF4dGhQVGpOZzRRdEdGVGZFK3dLYWU2T2RpM1FOd2l0aDdSVFM0MlQ1aEhGN2x5clJpWHVSNjQyWDlOYVJpZWV6dDRVZG81WEVPVzEwQmZRWlF2dFE1TVc5L2w0ZzArUCtwdHdKT3FqQUhycnNuNi9BK0plWE51ZEw1Y3dvaTVqcjZzc3c=
+    vuforiaLicenseKey: Aa/0iCn/////AAABmYHkWYa5/EHAgFTXVrRX/5oQThtQD7K2Dhx8U1b4vv0SxFXx0f/z0X8SBzaUO12yW786vYc+bAy8bF8zVFOGTkI1t1EYg2SBHT3CRYte81xz2Px/JD6YYqat9vrEg8gc7Jd0An3MJh8bWTtI2Q1FrZHRsSg+n2MagarBv4vFMUVaVt1K0MbkjyIvGOFCfNrXuPEiwPOARCXthHkQqP0j40ju2u6mot8EV8zD2dgH9NKQ7V59t9Xv4iufHpnOWeSNGQo7W4d//1gEKtzldRwRwV8X/l2mHe1RmYiDSfJ/6I+yoX9yB3YE7guNI+tdQVgb9Plz8bl9xYMpHY4Q2926xgVTgbuLFQKjF4HJ34EdZeGq
+    ufoLicenseKey: QWRwUXNWci8vLy8vQUFBQUtIeE8wTnc1ZmtaS2xNMmJHWXpUa3VvZjlsbEtlK2RnbmJlRWh5RlVjdDFKSXRDUTRGcXdyMjd4RWRDR3IwQ204enJxbkhNQzBpa2R2a0Y3blBEN01QQVdnOVJmcEZuNVhLaWZVNlBYVGJjVGRweU1qdlNkVllsdFloeTlSRlJwMFZVdlFjK1dlQU5SNWpWdmozMDBJK0N0K3VpKzV2TlozVnlNblFOSklhSjFseVkxNlZpRjhTYWNvNGhBaXcrQmlmQ0hVVUZkL2MxM1ZGb2FJV2E5RlYyMTd6d0VGc0FXbTAzdndHa2t3Q1BaNFhjYVhjT2d2UFVWVVNjRENUUXlBdzRhWk5Ub1AwRExjSXYzNUhCaXRvUTluNHZSWFJxWGQxdEVucGJ2VTFmLzZEVVFuZGhraVpXSkprOGJVS2NXdUMzNzN3YXFmRDRpeWhRalRXajRaUkttdDZHRVhHcHNQSXN5aXBMaVBJb0s=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
-<<<<<<< HEAD
-    version: 1.0.0
-=======
     version: 8.3.8
->>>>>>> 786bb9889be2bbc33460b61f633d6df979ea906f
-    eulaAcceptedVersions: '{"Values":["8.3","8.6"]}'
+    eulaAcceptedVersions: '{"Values":["8.6","8.3"]}'
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31

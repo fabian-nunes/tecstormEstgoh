@@ -21,7 +21,11 @@ MonoBehaviour:
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
+<<<<<<< HEAD
     version: 1.0.0
+=======
+    version: 8.3.8
+>>>>>>> 786bb9889be2bbc33460b61f633d6df979ea906f
     eulaAcceptedVersions: '{"Values":["8.3","8.6"]}'
   digitalEyewear:
     cameraOffset: 0.06

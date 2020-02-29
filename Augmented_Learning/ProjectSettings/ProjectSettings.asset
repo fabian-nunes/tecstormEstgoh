@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 44a87a27f9717764db2d8e3a3f5e004b
+  productGUID: faa92bd9b9eef614baa4947f962baf5e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -622,9 +622,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: e7d7ccff-00c1-4e03-b5c5-b15d9176e8a9
+  cloudProjectId: 54f1522f-dbc8-42a8-96d6-6e8da531aa8f
   framebufferDepthMemorylessMode: 0
-  projectName: Augmented_Learning
+  projectName: Augmented_Learning (2)
   organizationId: binogamer12
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

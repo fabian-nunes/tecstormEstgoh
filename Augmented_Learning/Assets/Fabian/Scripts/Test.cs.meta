@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Augmented_Learning/Assets/Fabian/Scripts/Test.cs.meta
+guid: daf93e467e1f5b24bb32c8d12dee2b6e
+=======
 guid: d373fdda5a5276943bdcdb0ac1ff3e51
+>>>>>>> 8295fc1ca54af22495100ec9ef69daa4bcad79da:Augmented_Learning/Assets/Fabian/Scripts/CorrectAnswer.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

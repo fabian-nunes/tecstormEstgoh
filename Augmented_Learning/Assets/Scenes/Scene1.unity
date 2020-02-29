@@ -1343,6 +1343,11 @@ PrefabInstance:
       propertyPath: m_Text
       value: VuMarks
       objectReference: {fileID: 0}
+    - target: {fileID: 223670835207028198, guid: 356d9770fafda4666a5b89318a156f6f,
+        type: 3}
+      propertyPath: m_AdditionalShaderChannelsFlag
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 224024999084196168, guid: 356d9770fafda4666a5b89318a156f6f,
         type: 3}
       propertyPath: m_SizeDelta.x

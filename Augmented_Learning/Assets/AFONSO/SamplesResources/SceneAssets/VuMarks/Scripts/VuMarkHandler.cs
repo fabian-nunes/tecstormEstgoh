@@ -141,6 +141,7 @@ public class VuMarkHandler : MonoBehaviour
     }
     public GameObject LostVuMarkUI;
     public GameObject InteractVuMarkUI;
+    public GameObject Num1;
 
     /// <summary>
     /// This method will be called whenever a tracked VuMark is lost
@@ -154,9 +155,16 @@ public class VuMarkHandler : MonoBehaviour
 
         test1.SetActive(false);
         augmentationObjects[img].augmentation.SetActive(false);
-        
-        if (vumarkTarget == this.currentVuMark)
-            this.nearestVuMarkScreenPanel.ResetShowTrigger();
+
+        if (augmentationObjects[img].augmentation.name.Equals("Math"))
+        {
+            Debug.Log("fj");
+
+            Num1.transform.position = new Vector3(0.211f, 0.83f, -0.965f);
+
+            if (vumarkTarget == this.currentVuMark)
+                this.nearestVuMarkScreenPanel.ResetShowTrigger();
+        }
     }
 
     #endregion // VUMARK_CALLBACK_METHODS

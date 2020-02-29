@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CorrectAnswer : MonoBehaviour
+public class Test : MonoBehaviour
 {
     public GameObject correct;
 
@@ -13,22 +13,17 @@ public class CorrectAnswer : MonoBehaviour
     {
         
     }
-    
-    // Update is called once per frame
-    void Update()
+
+    private void OnTriggerEnter(Collider other)
     {
-        
-        if (correct.name.Equals("co"))
+        if (correct.gameObject.name == "co")
         {
             text.SetActive(true);
         }
-        else
-        {
-            
-        }
     }
 
-    void Correct()
+    // Update is called once per frame
+    void Update()
     {
         
     }

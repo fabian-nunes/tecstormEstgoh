@@ -6,7 +6,12 @@ public class DragAndDrop : MonoBehaviour {
     private bool dragging = false;
     private Vector3 offset;
     private Transform toDrag;
- 
+    
+    public Material c;
+    public Material e;
+    public GameObject num1;
+    public GameObject num2;
+    
     void Update() {
         Vector3 v3;
  
@@ -23,8 +28,17 @@ public class DragAndDrop : MonoBehaviour {
             Ray ray = Camera.main.ScreenPointToRay(pos); 
             if(Physics.Raycast(ray, out hit) && (hit.collider.tag == "Draggable"))
             {
-                this.transform.position = new Vector3(2.39f, 0.12f, 1f);
-                Debug.Log("ads");
+                if (this.name.Equals("Cube"))
+                {
+                    this.transform.position = new Vector3(2.39f, 0.12f, 1f);
+                    this.GetComponent<MeshRenderer>().material = c;
+                    num1.GetComponent<MeshRenderer>().material = c;
+                }
+                else if (this.name.Equals("CubeM"))
+                {
+                    this.GetComponent<MeshRenderer>().material = e;
+                    num2.GetComponent<MeshRenderer>().material = e;
+                }
             }
         }
         

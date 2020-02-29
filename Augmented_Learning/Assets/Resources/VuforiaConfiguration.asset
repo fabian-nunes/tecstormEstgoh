@@ -13,33 +13,16 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: Aa/0iCn/////AAABmYHkWYa5/EHAgFTXVrRX/5oQThtQD7K2Dhx8U1b4vv0SxFXx0f/z0X8SBzaUO12yW786vYc+bAy8bF8zVFOGTkI1t1EYg2SBHT3CRYte81xz2Px/JD6YYqat9vrEg8gc7Jd0An3MJh8bWTtI2Q1FrZHRsSg+n2MagarBv4vFMUVaVt1K0MbkjyIvGOFCfNrXuPEiwPOARCXthHkQqP0j40ju2u6mot8EV8zD2dgH9NKQ7V59t9Xv4iufHpnOWeSNGQo7W4d//1gEKtzldRwRwV8X/l2mHe1RmYiDSfJ/6I+yoX9yB3YE7guNI+tdQVgb9Plz8bl9xYMpHY4Q2926xgVTgbuLFQKjF4HJ34EdZeGq
-    ufoLicenseKey: QVlrMWg1Yi8vLy8vQUFBQUtOM0JNYjJnQTA2dHR3WjBIbnUvdCtZRis4Ym02dGVyRFdNZ0VpdlAvTy9VeXdTMjBYUWtzSnNlTDJGOENWaFgvVlcxVitwRVhVTDB4b0I2WWpGWVdTUERQNlVqRGVjNEd1K2xRVVpTRlR5VnpoM29zcVkzbUducTZrS1ZvU0FjVzJFenR4Q2tlRWl2SDJ0OHM4MUVCR0JJYlFHM0hzTENPTlAzOGtzN21tSExlTGlXd1FlVmxRaHRtYzIwR2ZGUEphcENDN3VaQVp6U202a3FISThKZm1YTzhoS1B0OWdlZGZ6T2x4c2tDS3daSHF1OFU4TFBzUVNxb1Q3elVkcTFsN28rbDV4UmU4Um0wNnpINUxuNlRjYlZwT2RZQnBKVFhOSXJJSmhlWnMycklRSnhSckZqblgxQ3RrSHBtaDNkSGQxb29NQkdpdTI0ZGNxS2xyQ29CdXRrUHptQ054RVIzNlJhNm04NHp6Zko=
+    vuforiaLicenseKey: 
+    ufoLicenseKey: QVhiM0Y1Ly8vLy8vQUFBQUtPbnFIeHJFSGs1N3VrMlg4U050eVBzK2pkOFZxMDhrazlwYjBsYS9aZUIxQlV1ckZWcWt0ZllSQWpnT2tIRlY2VzdOMDRTRjNYRUhmbTF5L1BnYlB4eWdHWEF6RUNheXowc3dyNVNYa2ozdERuRjhka1FpOHRscHdkMDcrcEJEY1FjTjNJcUM1bEgwOTYzQkdZdjRsQStRb0hSQU9nRGthelp5TlY0WHVwWU9EaE05NWw5bXAzbnBDMjM5MWZBWXBFdEdiL2loTDNab3N4b25ZblhjK1JtSS9wLzRoTDIwVGhmTXR6WFJNYkpUTXZLZzJoQ0N0TEJXNEptZ0pSOUtSdStzQWM3QjVNOWFFMGVHQ1dUT1VRSUUweEpiZC9ZL2cvS29iNDhBRXdQOGFwbWR5NmRWU0FHU2psVzRZY2FEU2Zud3J1ZHhucVNmSUZiajNTUnIzM0lKVlFIaW1rL0oyOGNFeDdyekcySXg=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
-    version: 8.3.8
-    eulaAcceptedVersions: '{"Values":["8.6","8.3"]}'
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
-    version: 8.3.8
-    eulaAcceptedVersions: '{"Values":["8.6","8.3"]}'
-=======
-<<<<<<< HEAD
-    version: 8.3.8
-    eulaAcceptedVersions: '{"Values":["8.3"]}'
-=======
     version: 1.0.0
     eulaAcceptedVersions: 
->>>>>>> d1dcae65728c0a69fffa5fbdeeb26af0255614b8
->>>>>>> 52fa7ace720034f3ca5fbe819316923406923d6a
->>>>>>> f90b919c8ba85ff8f31e2c1fd3666ddb4f321246
->>>>>>> 23e7a28c25de177d4733c0adc09b6d113fb6e6d4
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31

@@ -196,6 +196,7 @@
         <e p="originalP.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="MainMenu.cs" t="Include" />
+          <e p="ScaleObject.cs" t="Include" />
         </e>
         <e p="StreamingAssets" t="Include">
           <e p="Vuforia" t="Include">

@@ -6,3 +6,5 @@ O objetivo do projeto é criar uma aplicação para android que ao visualizar um
 Esta aplicação será criada com unity versão 2018 LTS e a tecnologia vuforia e os seus vumarks.
 
 Será utilizado o adobe ilustrator para criar os vumarks e iremos utilizar o blender para criar as animações.
+
+[![Gnome](http://img.youtube.com/vi/6n3pFFPSlW4/0.jpg)](http://www.youtube.com/watch?v=6n3pFFPSlW4 "Gnome")

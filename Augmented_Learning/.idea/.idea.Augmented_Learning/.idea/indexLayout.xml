@@ -15,7 +15,10 @@
     <explicitExcludes>
       <Path>.idea</Path>
       <Path>Library</Path>
+<<<<<<< HEAD
       <Path>Logs</Path>
+=======
+>>>>>>> d1dcae65728c0a69fffa5fbdeeb26af0255614b8
       <Path>QCAR</Path>
       <Path>Temp</Path>
       <Path>obj</Path>

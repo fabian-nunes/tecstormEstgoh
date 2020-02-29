@@ -23,6 +23,23 @@ MonoBehaviour:
     modelTargetRecoWhileExtendedTracked: 1
     version: 8.3.8
     eulaAcceptedVersions: '{"Values":["8.6","8.3"]}'
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+    version: 8.3.8
+    eulaAcceptedVersions: '{"Values":["8.6","8.3"]}'
+=======
+<<<<<<< HEAD
+    version: 8.3.8
+    eulaAcceptedVersions: '{"Values":["8.3"]}'
+=======
+    version: 1.0.0
+    eulaAcceptedVersions: 
+>>>>>>> d1dcae65728c0a69fffa5fbdeeb26af0255614b8
+>>>>>>> 52fa7ace720034f3ca5fbe819316923406923d6a
+>>>>>>> f90b919c8ba85ff8f31e2c1fd3666ddb4f321246
+>>>>>>> 23e7a28c25de177d4733c0adc09b6d113fb6e6d4
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31

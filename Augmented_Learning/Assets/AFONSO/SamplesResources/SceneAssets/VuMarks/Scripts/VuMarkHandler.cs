@@ -54,6 +54,8 @@ public class VuMarkHandler : MonoBehaviour
 
     void Start()
     {
+        LostVuMarkUI.SetActive(true);
+
         int l = 0;
         while(l < 2)
         {
@@ -117,6 +119,8 @@ public class VuMarkHandler : MonoBehaviour
     public GameObject test1;
     public void OnVuMarkDetected(VuMarkTarget vumarkTarget)
     {
+        LostVuMarkUI.SetActive(false);
+
         Debug.Log("<color=cyan>VuMarkHandler.OnVuMarkDetected(): </color>" + GetVuMarkId(vumarkTarget));
         Debug.Log("ads");
         for (int i = 0; i < augmentationObjects.Length; i++)
@@ -132,12 +136,14 @@ public class VuMarkHandler : MonoBehaviour
         }
        
     }
-
+    public GameObject LostVuMarkUI;
     /// <summary>
     /// This method will be called whenever a tracked VuMark is lost
     /// </summary>
     public void OnVuMarkLost(VuMarkTarget vumarkTarget)
     {
+        LostVuMarkUI.SetActive(true);
+        
         Debug.Log("<color=cyan>VuMarkHandler.OnVuMarkLost(): </color>" + GetVuMarkId(vumarkTarget));
 
         test1.SetActive(false);

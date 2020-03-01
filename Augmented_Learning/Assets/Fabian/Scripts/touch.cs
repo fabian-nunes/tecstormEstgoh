@@ -9,7 +9,7 @@ public class touch : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        nice = false;
+        nice = true;
         this.GetComponent<AudioSource>().Stop();
     }
 
@@ -19,16 +19,9 @@ public class touch : MonoBehaviour
         
     }
     
-    void OnGUI()
-    {
-        if (GUI.Button(new Rect(20, 120, 150, 100), "CaptureScreenshot")) {
-            ScreenCapture.CaptureScreenshot("Screenshot.png");
-        }
-    }
     
-    private void OnMouseDown()
+    public void Music()
     {
-        Debug.Log("nice");
         if (nice == false)
         {
             this.GetComponent<AudioSource>().Play();

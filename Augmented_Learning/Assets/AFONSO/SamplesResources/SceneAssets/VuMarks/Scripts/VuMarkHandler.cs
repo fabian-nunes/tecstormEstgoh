@@ -110,11 +110,10 @@ public class VuMarkHandler : MonoBehaviour
     #region VUMARK_CALLBACK_METHODS
 
 
-    void OnGUI()
+    public void ScreenShot()
     {
-        if (GUI.Button(new Rect(20, 120, 150, 100), "CaptureScreenshot")) {
-            ScreenCapture.CaptureScreenshot("Screenshot.png");
-        }
+        var time = System.DateTime.Now;
+        ScreenCapture.CaptureScreenshot("Screenshot"+time.ToString("yyyyMMdd_HHmmss")+".png");
     }
 
     ////////////////////////////////////////////

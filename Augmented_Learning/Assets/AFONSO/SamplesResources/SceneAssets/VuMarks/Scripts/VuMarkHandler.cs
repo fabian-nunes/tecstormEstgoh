@@ -145,7 +145,10 @@ public class VuMarkHandler : MonoBehaviour
     public GameObject Num2;
     public Material y;
     public GameObject NumT;
-    
+    public GameObject setaL;
+    public GameObject x;
+    public GameObject seta;
+
     /// <summary>
     /// This method will be called whenever a tracked VuMark is lost
     /// </summary>
@@ -167,6 +170,9 @@ public class VuMarkHandler : MonoBehaviour
             NumT.GetComponent<MeshRenderer>().material = y;
             
             Num2.GetComponent<MeshRenderer>().material = y;
+            setaL.SetActive(true);
+            x.SetActive(false);
+            seta.SetActive(true);
             if (vumarkTarget == this.currentVuMark)
                 this.nearestVuMarkScreenPanel.ResetShowTrigger();
         }

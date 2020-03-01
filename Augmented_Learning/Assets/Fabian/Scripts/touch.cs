@@ -19,6 +19,13 @@ public class touch : MonoBehaviour
         
     }
     
+    void OnGUI()
+    {
+        if (GUI.Button(new Rect(20, 120, 150, 100), "CaptureScreenshot")) {
+            ScreenCapture.CaptureScreenshot("Screenshot.png");
+        }
+    }
+    
     private void OnMouseDown()
     {
         Debug.Log("nice");
@@ -33,4 +40,5 @@ public class touch : MonoBehaviour
             nice = false;
         }
     }
+    
 }
